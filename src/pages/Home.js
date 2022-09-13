@@ -15,6 +15,7 @@ const Home = () => {
       
        <HeroBanner></HeroBanner>
         <SearchExercises></SearchExercises>
+       
     </Box>
   )
 }
